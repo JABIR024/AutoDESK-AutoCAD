@@ -9,8 +9,6 @@
 1. Download The installer
 2. Open The Installer 
 
-![maxresdefault](картинка)
-
 # Here are some key features of AutoCAD:
 ⦁	2D Drafting and Drawing: Comprehensive tools for creating and editing 2D drawings and drafts, including lines, polylines, arcs, and shapes.
 
